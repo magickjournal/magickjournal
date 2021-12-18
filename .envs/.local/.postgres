@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=magickjournal
+POSTGRES_USER=sWZItwOhYcHooDMpscxwQkaNeOxpeWTK
+POSTGRES_PASSWORD=6zkMHK56MPua3NrQJSaeKh6KczK5LodPRCdmvHZHjs6WSWxVpjeicogoYBkncR5i
